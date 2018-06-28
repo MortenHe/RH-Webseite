@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+body {
+    background-color: lightgray;
+    font-size: 16px;
+    font-family: arial;
+}
+
+.logo {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+    display: block;
+}
+
+.personal_data {
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 400px;
+    text-align: center;
+}
+
+.header {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.ds {
+    margin-top: 10px;
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
